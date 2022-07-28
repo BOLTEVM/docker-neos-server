@@ -30,9 +30,9 @@
     "allowedUrlHosts": null,
     "autoSpawnItems": null,
     "defaultUserRoles" : {
-        "Frooxius" : "Admin", 
-        "Nexulan" : "Builder",
-        "Veer" : "Moderator",
+        "BOLTEVM" : "Admin", 
+        "DYNAMICS" : "Builder",
+        "B0gie" : "Moderator",
         "0utsider89" : "Spectator"
     }
   }
